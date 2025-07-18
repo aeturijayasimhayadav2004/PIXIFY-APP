@@ -1,6 +1,6 @@
 import streamlit as st
 import os
-from dotenv import load_dotenv
+#from dotenv import load_dotenv
 from services import (
     lifestyle_shot_by_image,
     lifestyle_shot_by_text,
